@@ -1,0 +1,11 @@
+product_id,name,description,category,price,stock,rating,num_reviews,brand,color
+1,Running Shoes,Lightweight and breathable running shoes for all types of runners.,Shoes,79.99,50,4.7,234,Acme Athletics,Red/Black
+2,Wireless Headphones,Noise-canceling wireless headphones with long battery life.,Electronics,149.95,20,4.2,87,Melody Tech,Black
+3,Cotton T-Shirt,Soft and comfortable cotton t-shirt in various colors.,Clothing,19.99,100,4.8,1254,Threads & Co.,White/Blue/Grey
+4,Laptop Backpack,Durable and stylish laptop backpack with multiple compartments.,Bags,49.99,35,4.5,321,Gear Haulers,Black
+5,Smartwatch,Fitness tracker smartwatch with heart rate monitoring and GPS.,Electronics,229.99,15,4.1,156,FitLife,Black/Silver
+6,Coffee Maker,Programmable coffee maker with multiple brewing options.,Kitchen Appliances,74.95,78,4.3,98,Bean Supreme,Black/Stainless Steel
+7,Yoga Mat,Non-slip yoga mat with carrying strap.,Fitness Equipment,24.99,42,4.9,542,Yogi Essentials,Blue
+8,Wireless Keyboard,Compact and ergonomic wireless keyboard for laptops.,Electronics,39.99,65,4.4,289,ClickyKeys,Black/White
+9,Denim Jeans,Classic straight-leg denim jeans in various sizes.,Clothing,44.99,82,4.6,785,Denim & Co.,Blue
+10,Book,A popular fiction novel by a renowned author.,Books,14.99,120,4.8,4321,Storyteller Press,
